@@ -1,0 +1,36 @@
+.container #entete{
+   background-color: #74D1E3;
+   margin:0;
+   padding: 0;
+}
+ul{
+   background-image: linear-gradient(#74D1E3, #74E39C);
+   margin: 0;
+   list-style-type: none;
+}
+
+.nav-link:hover{
+	border-color:#008AEF;
+}
+.degardéCo{
+	height: 56px;
+	background-image: linear-gradient(#74D1E3, #74E39C);
+	z-index: -20;
+
+}
+#inter{
+   background-color: #74D1E3;
+}
+body{
+   background-color: #74E39C;
+}
+
+h1{
+	margin:0;
+}
+
+table.position_table{
+	/*display: block;*/
+    margin-left: auto;
+    margin-right: auto;
+}
